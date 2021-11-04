@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+.vs
+game-engine/bin
+*.vcxproj.user
